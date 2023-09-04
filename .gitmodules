@@ -1,0 +1,3 @@
+[submodule "git-localconfig"]
+	path = git-localconfig
+	url = https://github.com/andreigeorgiancraciun/git-localconfig
